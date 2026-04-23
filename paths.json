@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/pcty-boilerplate/:/"
+    "/content/pcty/:/"
   ],
   "includes": [
-    "/content/pcty-boilerplate/"
+    "/content/pcty/"
   ]
 }
